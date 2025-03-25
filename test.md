@@ -107,7 +107,7 @@
 -   Обеспечивает масштабируемость и отказоустойчивость баз данных.
 -   Упрощает развертывание базовых сервисов для облачных приложений.
 ## **Схема взаимодействия компонентов OpenStack**
-![enter image description here]()
+![ostk_scheme](https://raw.githubusercontent.com/nwanb/test2A2/361da78093e3557480ef68da1c720cae3180184d/ostk_scheme.png)
 ----------
 ## **2. Архитектура OpenStack**
 
